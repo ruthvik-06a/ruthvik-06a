@@ -7,8 +7,13 @@
 </h3>
 
 <p align="center">
+  <!-- Naruto -->
   <img src="https://media.giphy.com/media/4gsjHZMPXdlGo/giphy.gif" width="120">
-  <img src="https://media.giphy.com/media/4QF3D5Y3Lh8aQ/giphy.gif" width="120">
+
+  <!-- Spider-Man -->
+  <img src="https://media.giphy.com/media/1Bgr0VaRnx3pCZbaJa/giphy.gif" width="120">
+
+  <!-- Thor -->
   <img src="https://media.giphy.com/media/3pTtbLJ7Jd0YM/giphy.gif" width="120">
 </p>
 
