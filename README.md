@@ -1,3 +1,4 @@
+```html
 <h1 align="center">
   👋 Hey, I'm Ruthvik
 </h1>
@@ -8,13 +9,13 @@
 
 <p align="center">
   <!-- Naruto -->
-  <img src="https://media.giphy.com/media/4gsjHZMPXdlGo/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThucHVpM3lmeGNqOW5tYXJqZWRpcnN5OGNzemdlcm12bWJhOHRqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0aIY8ZCncOtgh35ftC/giphy.gif" width="150">
 
   <!-- Spider-Man -->
-  <img src="https://media.giphy.com/media/1Bgr0VaRnx3pCZbaJa/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNsNjFmbzU4bnlqcWhnY2Y5NGhkcnYwZmMzMmVtMXhieHJ2YmsyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7DtA5riKTwHljx4Fdr/giphy.gif" width="150">
 
   <!-- Thor -->
-  <img src="https://media.giphy.com/media/3pTtbLJ7Jd0YM/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ5aDFxMnhnZTFsdGt6a3F1eXR1OTNhdmNxdGxmejl6eDF0YWJsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pL6mkjytFkTlekNMtM/giphy.gif" width="150">
 </p>
 
 <p align="center">
@@ -33,3 +34,4 @@
     alt="Dark Pacman Contribution Graph"
   >
 </p>
+```
