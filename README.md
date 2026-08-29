@@ -7,12 +7,21 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120">
 </p>
- <p align="center">
+
+<p align="center">
   👋 You are my
   <img src="https://komarev.com/ghpvc/?username=ruthvik-06a&label=Visitors&color=blue&style=flat-square">
   visitor!
+</p>
+
+---
+
+<h2 align="center">🐙 My GitHub Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruthvik-06a/ruthvik-06a/output/pacman-contribution-graph.svg">
 </p>
