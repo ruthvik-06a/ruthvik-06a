@@ -24,3 +24,7 @@ jobs:
         with:
           message: "Generate Pacman contribution graph"
           default_author: github_actions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruthvik-06a/ruthvik-06a/output/pacman-contribution-graph.svg">
+</p>
