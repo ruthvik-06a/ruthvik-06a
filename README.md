@@ -23,5 +23,5 @@
 <h2 align="center">🐙 My GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruthvik-06a/ruthvik-06a/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/ruthvik-06a/ruthvik-06a/gh-pages/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
 </p>
