@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/4gsjHZMPXdlGo/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/4QF3D5Y3Lh8aQ/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/3pTtbLJ7Jd0YM/giphy.gif" width="120">
 </p>
 
 <p align="center">
