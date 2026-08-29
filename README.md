@@ -13,7 +13,7 @@ Paste the following **directly into your README.md**:
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThucHVpM3lmeGNqOW5tYXJqZWRpcnN5OGNzemdlcm12bWJhOHRqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0aIY8ZCncOtgh35ftC/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/5QX2W2rCzD5a0/giphy.gif" width="150">
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNsNjFmbzU4bnlqcWhnY2Y5NGhkcnYwZmMzMmVtMXhieHJ2YmsyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7DtA5riKTwHljx4Fdr/giphy.gif" width="150">
 
