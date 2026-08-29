@@ -11,11 +11,9 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNsNjFmbzU4bnlqcWhnY2Y5NGhkcnYwZmMzMmVtMXhieHJ2YmsyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7DtA5riKTwHljx4Fdr/giphy.gif" width="150">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ5aDFxMnhnZTFsdGt6a3F1eXR1OTNhdmNxdGxmejl6eDF0YWJsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pL6mkjytFkTlekNMtM/giphy.gif" width="150">
-</p>
 
 <p align="center">
-  🍥 Naruto &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; ⚡ Thor
+  🍥 Naruto &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
 </p>
 
 <p align="center">
