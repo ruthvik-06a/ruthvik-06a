@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🍥 Naruto &nbsp;&nbsp;&nbsp; 🕷️ Spider-Man &nbsp;&nbsp;&nbsp; ⚡ Thor
+  🍥 Naruto &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; ⚡ Thor
 </p>
 
 <p align="center">
